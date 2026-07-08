@@ -1,3 +1,8 @@
+<img width="1536" height="1024" alt="file_00000000101471fda6a30245de497ac5" src="https://github.com/user-attachments/assets/b8ff1436-452e-4a6c-b673-cb9dc087bb93" />
+<img width="1536" height="1024" alt="file_000000008e2471fda0244c9a4ceff19d" src="https://github.com/user-attachments/assets/0adb50a1-e2d3-406d-85c3-da14d10244b5" />
+
+
+
 CLASS: Cosmic Linear Anisotropy Solving System  {#mainpage}
 ==============================================
 
